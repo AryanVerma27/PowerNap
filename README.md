@@ -67,7 +67,6 @@ Current computed as I = P / 3.3 V. **LPM3 draws ~200× less than Active Mode (LE
 - Watchdog timer in reset vs. interval-timer mode
 - Energy profiling with EnergyTrace; the effect of the debugger and of LED load on measurements
 
-## Authors
+## Author
 
-- **Shrinath Abhay Palwankar**
 - **Aryan Verma**
